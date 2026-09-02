@@ -40,9 +40,9 @@ Primitives are intentionally composable.
 
 For example:
 
-consistency
-+ minimal-diff
-+ verify-before-claim
+codebase-alignment
++ minimal-scope
++ verification-and-reporting
 
 creates a lightweight development policy without requiring a framework,
 package, or additional runtime dependency.
