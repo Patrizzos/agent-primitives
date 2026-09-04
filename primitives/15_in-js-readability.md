@@ -1,6 +1,6 @@
 # Modular UI Primitive
 
-When generating HTML-in-JS or CSS-in-JS, prioritize human readability and modularity over minimizing lines of code.
+When generating HTML-in-JS (templating) or CSS-in-JS, prioritize human readability and modularity over minimizing lines of code.
 
 ## HTML-in-JS
 
