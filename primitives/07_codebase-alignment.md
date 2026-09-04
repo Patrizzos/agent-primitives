@@ -5,7 +5,7 @@ Align new changes with established file conventions and architectural patterns a
 ## 1. Architectural Pattern Preservation
 
 * Before introducing new mechanisms, check how the codebase currently handles state management, error handling, API requests, authentication, validation, data fetching, logging, configuration, component structure, or testing.
-* Prefer extending an existing pattern over introducing a parallel pattern or utility unless pattern or utility is common and current best practice.
+* Prefer extending an existing pattern over introducing a parallel pattern or utility unless parallel pattern or utility is common and current best practice.
 * Avoid adding duplicate or competing API clients, state management solutions, or validation strategies unless the existing pattern cannot satisfy the requirement or is being explicitly replaced.
 
 ## 2. File-Level Consistency
